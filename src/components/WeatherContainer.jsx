@@ -41,7 +41,7 @@ const WeatherContainer = ({weather}) => {
             </article>
         </div>
           <div>
-          <button onClick={handlChangeUnit} className=" bg-black text-gray-600 rounded-3xl p-2 py-2 " > Cambiar °C / °F</button>
+          <button onClick={handlChangeUnit} className=" bg-black text-white rounded-3xl p-2 py-2 " > Cambiar °C / °F</button>
           </div>
         
 

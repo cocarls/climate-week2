@@ -4,7 +4,8 @@ import './App.css'
 import axios from 'axios'
 import { useState } from "react"
 import WeatherContainer from './components/WeatherContainer'
-import Loading from './Loading'
+import Loading from './components/Loading'
+
 
 
 function App() {
